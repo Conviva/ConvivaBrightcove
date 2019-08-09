@@ -12,14 +12,14 @@
 
 /// @brief Create BrightCove Proxy object
 ///
-/// \param streamer controller instance is passed
+/// \param Brightcove controller instance is passed
 /// \return Returns Conviva BCoveProxy object
 
 + (id)createBCoveProxy:(id)streamer;
 
 /// @brief Destroy BrightCove Proxy object
 ///
-/// \param streamer Proxy object which was created using BCoveProxyCreator method
+/// \param  BrightCove Proxy object which was created using BCoveProxyCreator method
 
 + (void)CleanUpProxy:(id)streamer;
 

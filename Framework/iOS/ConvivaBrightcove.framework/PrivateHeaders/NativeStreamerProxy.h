@@ -6,7 +6,8 @@
 //  Copyright (c) 2013 Conviva. All rights reserved.
 //
 
-@import ConvivaCore;
+//#import "ConvivaStreamerProxy.h"
+#import <ConvivaCore/ConvivaStreamerProxy.h>
 
 #define POLL_INTERVAL_SEC 0.2
 
