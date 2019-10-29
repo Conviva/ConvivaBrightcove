@@ -18,15 +18,15 @@ release 2.141.0. Please follow these two steps to migrate to 2.141.0 version
     source 'https://github.com/Conviva/Conviva-PodSpecs.git'
     source 'https://github.com/CocoaPods/Specs.git'
 
-    pod 'ConvivaBrightcove', '2.141.1'
+    pod 'ConvivaBrightcove', '2.141.2'
     
 
 ## Manual Installation
 To add the ConvivaBrightcove library to your project manually:
 
-1.	Download the latest ConvivaCore [here](https://github.com/Conviva/ConvivaCore/archive/3.0.6.zip)
+1.	Download the latest ConvivaCore [here](https://github.com/Conviva/ConvivaCore/archive/3.0.7.zip)
 
-2.	Download the latest ConvivaBrightcove Module [here](https://github.com/Conviva/ConvivaBrightcove/archive/2.141.1.zip)
+2.	Download the latest ConvivaBrightcove Module [here](https://github.com/Conviva/ConvivaBrightcove/archive/2.141.2.zip)
 
 3.	Unzip the package and add ConvivaCore.framework and ConvivaBrightcove.framework to “Link Binary with Libraries” under build phase.
 
