@@ -10,7 +10,7 @@
 #endif
 #endif
 
-#import "BCoveProxyCreator.h"
+#import "CISBCoveProxy.h"
 
 FOUNDATION_EXPORT double ConvivaBrightcoveVersionNumber;
 FOUNDATION_EXPORT const unsigned char ConvivaBrightcoveVersionString[];
