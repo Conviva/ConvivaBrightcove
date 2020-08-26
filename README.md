@@ -41,7 +41,7 @@ To add the ConvivaBrightcove library to your project manually:
       * [Here](https://github.com/Conviva/ConvivaCore/archive/3.0.7.zip)
 
 
-2.	Download the latest ConvivaAVFoundation Module from below path.
+2.	Download the latest ConvivaBrightcove Module from below path.
      * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.1.zip)
       OR
      * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.0.zip) 
