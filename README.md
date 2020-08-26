@@ -13,22 +13,40 @@ release 2.141.0. Please follow these two steps to migrate to 2.141.0 version
         * #import "BCoveProxyCreator.h"
 
 ## Cocoapods Installation
-    Add the following line in your pod file and run 'pod install' command
+    Add the following lines in your pod file and run 'pod install' command
     
     source 'https://github.com/Conviva/Conviva-PodSpecs.git'
     source 'https://github.com/CocoaPods/Specs.git'
+    
+    // Without Advertising Identifier(IDFA) support
+    pod 'ConvivaBrightcove','4.0.1'
 
-    pod 'ConvivaBrightcove', '4.0.0'
+    OR 
+
+    // With Advertising Identifier(IDFA) support
+    pod 'ConvivaBrightcove','4.0.0'
     
 
 ## Manual Installation
 To add the ConvivaBrightcove library to your project manually:
 
-1.	Download the latest ConvivaCore [here](https://github.com/Conviva/ConvivaCore/archive/3.0.7.zip)
-                                                    (or)
-1.    Download the latest ConvivaSDK [here](https://github.com/Conviva/ConvivaSDK/archive/4.0.4.zip)
+1.	Download the latest ConvivaSDK/ConvivaCore from below paths.
 
-2.	Download the latest ConvivaBrightcove Module [here](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.0.zip)
+    * ConvivaSDK
+      * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.5.zip)
+      OR
+      * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.4.zip) 
+      
+    * ConvivaCore
+      * [Here](https://github.com/Conviva/ConvivaCore/archive/3.0.7.zip)
+
+
+2.	Download the latest ConvivaAVFoundation Module from below path.
+     * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.1.zip)
+      OR
+     * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.0.zip) 
+
+
 
 3.	Unzip the package and add ConvivaCore.framework and ConvivaBrightcove.framework to “Link Binary with Libraries” under build phase.
 
