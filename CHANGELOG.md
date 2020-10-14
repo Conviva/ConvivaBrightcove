@@ -28,14 +28,14 @@
 *    Supports iOS 14
 *    Supports Brightcove iOS SDK 6.4.5
 *    Using latest api "serviceCurrentRadioAccessTechnology" from CoreTelephony framework to detect cellular connection type for iOS 13 and above.
-* Using "AppTrackingTransparency" to collect Advertising Identifier from iOS/tvOS 14 and above
-* Supports Advertising identifier collection
+* Does not collect Advertising Identifier to comply with Apple guide lines
 
 ## 2.141.3 (14/10/2020)
 *    Supports iOS 14
 *    Supports Brightcove iOS SDK 6.4.5
 *    Using latest api "serviceCurrentRadioAccessTechnology" from CoreTelephony framework to detect cellular connection type for iOS 13 and above.
-* Does not collect Advertising Identifier to comply with Apple guide lines
+* Using "AppTrackingTransparency" to collect Advertising Identifier from iOS/tvOS 14 and above
+* Supports Advertising identifier collection
 
 ## 2.141.2 (30/10/2019)
 *    Supports iOS 13.
