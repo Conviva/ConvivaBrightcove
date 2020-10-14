@@ -19,12 +19,12 @@ release 2.141.0. Please follow these two steps to migrate to 2.141.0 version
     source 'https://github.com/CocoaPods/Specs.git'
     
     // Without Advertising Identifier(IDFA) support
-    pod 'ConvivaBrightcove','4.0.1'
+    pod 'ConvivaBrightcove','4.0.3'
 
     OR 
 
     // With Advertising Identifier(IDFA) support
-    pod 'ConvivaBrightcove','4.0.0'
+    pod 'ConvivaBrightcove','4.0.2'
     
 
 ## Manual Installation
@@ -33,18 +33,18 @@ To add the ConvivaBrightcove library to your project manually:
 1.	Download the latest ConvivaSDK/ConvivaCore from below paths.
 
     * ConvivaSDK
-      * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.5.zip)
+      * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.7.zip)
       OR
-      * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.4.zip) 
+      * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.6.zip) 
       
     * ConvivaCore
-      * [Here](https://github.com/Conviva/ConvivaCore/archive/3.0.7.zip)
+      * [Here](https://github.com/Conviva/ConvivaCore/archive/3.0.12.zip)
 
 
 2.	Download the latest ConvivaBrightcove Module from below path.
-     * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.1.zip)
+     * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.3.zip)
       OR
-     * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.0.zip) 
+     * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.2.zip) 
 
 
 
@@ -55,8 +55,11 @@ To add the ConvivaBrightcove library to your project manually:
     * CoreMedia
     * SystemConfiguration
     * MobileCoreServices
+    * Security
+    * AdSupport
     * CoreTelephony (iOS only)
     * Network (Add as optional)
+    * AppTrackingTransparency (weak) - Required only for Advertising Identifier supported library (Application must be built with XCode 12 or above)
 
 5.	Add “-ObjC” to “Other Linker Flags” of Xcode.
 
