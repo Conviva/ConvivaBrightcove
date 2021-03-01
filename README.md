@@ -27,7 +27,7 @@ release 2.141.0. Please follow these two steps to migrate to 2.141.0 version
     pod 'ConvivaBrightcove','4.0.4'
     
 ## Swift Package Manager Installation
-1. Add the Package Dependency repository URL as https://github.com/Conviva/ConvivaBrightcove-SPM
+1. Add the Package Dependency repository URL as https://github.com/Conviva/conviva-ios-bcove-spm
 2. Select version as:
     * 4.0.4 if it's with Advertising Identifier Support.
     * 4.0.5 if it's without Advertising Identifier Support.
