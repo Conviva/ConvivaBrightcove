@@ -1,5 +1,19 @@
 # Changelog
 
+## 4.0.5 (01/03/2021)
+* Supports iOS 14.4
+* Supports Brightcove iOS SDK 6.7.11
+* Added XCFramework Support.
+* Added Swift Package Manager Support.
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
+## 4.0.4 (01/03/2021)
+*  Supports iOS 14.4
+* Supports Brightcove iOS SDK 6.7.11
+* Added XCFramework Support.
+* Added Swift Package Manager Support.
+* Supports Advertising identifier collection.
+
 ## 4.0.3 (14/10/2020)
 * Supports iOS 14 
 * Supports Brightcove iOS SDK 6.7.11
