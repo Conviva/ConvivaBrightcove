@@ -1,16 +1,20 @@
 # Changelog
 
-## 4.0.7 (23/06/2021)
+## 4.0.9 (02/07/2021)
 * Supports iOS 14.5
 * Supports Brightcove iOS SDK 6.8.7 
 * Supports detailed error logging
 * Does not collect Advertising Identifier to comply with Apple guide lines.
 
-## 4.0.6 (23/06/2021)
+## 4.0.8 (02/07/2021)
 * Supports iOS 14.5
 * Supports Brightcove iOS SDK 6.8.7
 * Supports detailed error logging
 * Supports Advertising identifier collection.
+
+## 4.0.7 (23/06/2021)
+
+## 4.0.6 (23/06/2021)
 
 ## 4.0.5 (01/03/2021)
 * Supports iOS 14.4
