@@ -19,12 +19,12 @@ release 2.141.0. Please follow these two steps to migrate to 2.141.0 version
     source 'https://github.com/CocoaPods/Specs.git'
     
     // Without Advertising Identifier(IDFA) support
-    pod 'ConvivaBrightcove','4.0.11'
+    pod 'ConvivaBrightcove','4.0.13'
 
     OR 
 
     // With Advertising Identifier(IDFA) support
-    pod 'ConvivaBrightcove','4.0.10'
+    pod 'ConvivaBrightcove','4.0.12'
     
 ## Swift Package Manager Installation
 1. Add the Package Dependency repository URL as https://github.com/Conviva/conviva-ios-bcove-spm
@@ -38,18 +38,18 @@ To add the ConvivaBrightcove library to your project manually:
 1.	Download the latest ConvivaSDK/ConvivaCore from below paths.
 
     * ConvivaSDK
-      * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.19.zip)
+      * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.23.zip)
       OR
-      * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.18.zip) 
+      * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.22.zip) 
       
     * ConvivaCore
       * [Here](https://github.com/Conviva/ConvivaCore/archive/3.0.12.zip)
 
 
 2.	Download the latest ConvivaBrightcove Module from below path.
-     * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.11.zip)
+     * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.13.zip)
       OR
-     * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.10.zip) 
+     * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.12.zip) 
 
 
 
