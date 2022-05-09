@@ -1,5 +1,15 @@
 # Changelog
 
+## 4.0.15 (30/09/2021)
+* Supports iOS Core SDK 4.0.27
+* Supports Brightcove iOS SDK 6.10.4
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
+## 4.0.14 (30/09/2021)
+* Supports iOS Core SDK 4.0.26
+* Supports Brightcove iOS SDK 6.10.4
+* Supports Advertising identifier collection.
+
 ## 4.0.13 (30/09/2021)
 * Supports iOS Core SDK 4.0.23
 * Supports Brightcove iOS SDK 6.9.0
