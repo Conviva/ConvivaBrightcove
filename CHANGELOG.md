@@ -1,5 +1,17 @@
 # Changelog
 
+## 4.0.19 (09/21/2022)
+
+* Supports iOS 16
+* Supports Brightcove iOS SDK 6.10.6
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
+## 4.0.18 (09/21/2022)
+
+* Supports iOS 16
+* Supports Brightcove iOS SDK 6.10.6
+* Supports Advertising identifier collection.
+
 ## 4.0.17 (05/24/2022)
 
 * Fixed random crash issue on asset change.
