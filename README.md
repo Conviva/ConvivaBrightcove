@@ -1,6 +1,6 @@
 # ConvivaBrightcove Framework
 
-The ConvivaBrightcove Framework supports cocoapods and manual installation. The library is delivered as Static Framework and deployment is supported on iOS 12 and above.**Supports iOS 14 as well.**
+The ConvivaBrightcove Framework supports cocoapods and manual installation. The library is delivered as Static Framework and deployment is supported on iOS/tvOS 12 and above.
 
 ## Migrating from Pre 2.141.0 version
 For customers who have already integrated pre 2.141.0 version of Conviva library, we recommend them to migrate to the latest 
@@ -19,18 +19,18 @@ release 2.141.0. Please follow these two steps to migrate to 2.141.0 version
     source 'https://github.com/CocoaPods/Specs.git'
     
     // Without Advertising Identifier(IDFA) support
-    pod 'ConvivaBrightcove','4.0.21'
+    pod 'ConvivaBrightcove','4.0.23'
 
     OR 
 
     // With Advertising Identifier(IDFA) support
-    pod 'ConvivaBrightcove','4.0.20'
+    pod 'ConvivaBrightcove','4.0.22'
     
 ## Swift Package Manager Installation
 1. Add the Package Dependency repository URL as https://github.com/Conviva/conviva-ios-bcove-spm
 2. Select version as:
-    * 4.0.18 if it's with Advertising Identifier Support.
-    * 4.0.19 if it's without Advertising Identifier Support.
+    * 4.0.22 if it's with Advertising Identifier Support.
+    * 4.0.23 if it's without Advertising Identifier Support.
 
 ## Manual Installation
 To add the ConvivaBrightcove library to your project manually:
@@ -38,18 +38,18 @@ To add the ConvivaBrightcove library to your project manually:
 1.	Download the latest ConvivaSDK/ConvivaCore from below paths.
 
     * ConvivaSDK
-      * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.33.zip)
+      * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.35.zip)
       OR
-      * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.32.zip) 
+      * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.34.zip) 
       
     * ConvivaCore
       * [Here](https://github.com/Conviva/ConvivaCore/archive/3.0.12.zip)
 
 
 2.	Download the latest ConvivaBrightcove Module from below path.
-     * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.19.zip)
+     * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.23.zip)
       OR
-     * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.18.zip) 
+     * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaBrightcove/archive/4.0.22.zip) 
 
 
 

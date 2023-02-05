@@ -1,0 +1,6 @@
+framework module ConvivaBrightcove {
+  umbrella header "ConvivaBrightcove-umbrella.h"
+
+  export *
+  module * { export * }
+}

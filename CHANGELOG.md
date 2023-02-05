@@ -1,5 +1,17 @@
 # Changelog
 
+## 4.0.23 (02/06/2023)
+
+* Supports tvOS.
+* Supports Brightcove iOS/tvOS SDK 6.12.0
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
+## 4.0.22 (02/06/2023)
+
+* Supports tvOS.
+* Supports Brightcove iOS/tvOS SDK 6.12.0
+* Supports Advertising identifier collection.
+
 ## 4.0.21 (01/05/2023)
 
 * Supports Brightcove iOS SDK 6.11.2
