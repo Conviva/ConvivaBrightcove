@@ -1,5 +1,10 @@
 # Changelog
 
+## 4.0.24 (04/04/2023)
+
+* Support for auto collection of audio track changes, subtitle track changes and closed caption track changes.
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
 ## 4.0.23 (02/06/2023)
 
 * Supports tvOS.
