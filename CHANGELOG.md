@@ -1,5 +1,15 @@
 # Changelog
 
+## 4.0.27 (06/02/2023)
+
+* Supports Brightcove iOS/tvOS SDK 6.12.1
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
+## 4.0.26 (06/02/2023)
+
+* Supports Brightcove iOS/tvOS SDK 6.12.1
+* Supports Advertising identifier collection.
+
 ## 4.0.25 (04/04/2023)
 
 * Support for auto collection of audio track changes, subtitle track changes and closed caption track changes.
