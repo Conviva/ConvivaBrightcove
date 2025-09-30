@@ -1,5 +1,8 @@
 # Changelog
 
+## 4.0.32 (09/30/2024)
+* Supports Brightcove iOS/tvOS SDK 7.0.9
+
 ## 4.0.31 (01/11/2024)
 * Privacy manifest file support is added.
 * Does not collect Advertising Identifier to comply with Apple guide lines.
